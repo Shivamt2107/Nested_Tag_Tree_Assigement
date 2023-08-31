@@ -1,6 +1,9 @@
 # Nested Tag Tree - Aimonk Assignment
 
-![Project Preview](project_preview.png)
+![Screenshot (2457)](https://github.com/Shivamt2107/Nested_Tag_Tree_Assigement/assets/104616395/79cded0a-f2f7-41f2-bb1e-add257148d67)
+![Screenshot (2458)](https://github.com/Shivamt2107/Nested_Tag_Tree_Assigement/assets/104616395/b28e80e6-1173-496b-a86f-de160e46aeb6)
+![Screenshot (2459)](https://github.com/Shivamt2107/Nested_Tag_Tree_Assigement/assets/104616395/73196ec4-6727-466d-a0fa-1b41b5246f86)
+
 
 Welcome to the Nested Tag Tree project! This repository contains a React application that allows you to create and manage a hierarchical tree structure of tags. Each tag can have a name and optional data associated with it.
 
@@ -15,7 +18,7 @@ Welcome to the Nested Tag Tree project! This repository contains a React applica
 
 ## Demo
 
-Check out the live demo of the Nested Tag Tree project [here](https://your-demo-link.com).
+Check out the live demo of the Nested Tag Tree project [here](https://ai-monk-assigement.vercel.app/).
 
 ## Features
 
@@ -29,7 +32,7 @@ Check out the live demo of the Nested Tag Tree project [here](https://your-demo-
 
 To run this project locally, follow these steps:
 
-1. Clone this repository to your local machine using:  git clone https://github.com/your-username/NESTED-TAG_TREE-AIMONK-ASSIGNMENT.git.
+1. Clone this repository to your local machine using:  git clone https://github.com/Shivamt2107/Nested_Tag_Tree_Assigement.
 
 2. Navigate to the project directory: cd NESTED-TAG_TREE-AIMONK-ASSIGNMENT.
 
