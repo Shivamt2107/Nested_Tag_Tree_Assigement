@@ -1,0 +1,43 @@
+.tag.collapsed .tag-content {
+  display: none;
+}
+
+.tag_header {
+  display: flex;
+  align-items: center;
+  --tw-bg-opacity: 1;
+  background-color: rgb(96 165 250 / var(--tw-bg-opacity));
+  padding: 10px;
+}
+
+.toggle_button {
+  background-color: #ece9e9f3;
+  border: none;
+  padding: 2px 15px;
+  cursor: pointer;
+  margin-right: 7px;
+}
+
+.tag_name {
+  flex-grow: 1;
+  cursor: pointer;
+}
+
+.add_child_button {
+  background-color: #ece9e9f3;
+  border: none;
+  padding: 2px 10px;
+  cursor: pointer;
+}
+
+.tag_content {
+  margin: 3px;
+  padding: 5px;
+}
+
+.tag_data {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin: 5px 0;
+}

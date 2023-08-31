@@ -1,0 +1,29 @@
+.app_container {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.tag {
+  border: 1px solid #ccc;
+  margin: 2px;
+  padding: 3px;
+}
+
+
+.export_button {
+  background-color: #ccc;
+  border: none;
+  padding: 5px 10px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.export_data {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  white-space: pre-wrap;
+}
